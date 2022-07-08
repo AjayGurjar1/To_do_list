@@ -1,2 +1,2 @@
 To Do list Genrator
-![Screenshot 2022-07-08 222738](https://user-images.githubusercontent.com/102910229/178037195-b0c3c215-af93-4249-97fa-3bd1664fef5b.png)
+![Screenshot 2022-07-08 222843](https://user-images.githubusercontent.com/102910229/178037366-1a483a89-2bf7-4d60-82f2-0fee677d01a3.png)
